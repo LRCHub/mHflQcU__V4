@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Keep going",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-03-05T11:51:43.880917Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KEEP GOING (feat. Lil Durk, 21 Savage & Roddy Ricch)",
+      "artist": "DJ Khaled feat. Lil Durk, 21 Savage & Roddy Ricch",
+      "has_synced": true,
+      "path": "select/01_KEEP_GOING_(feat._Lil_Durk,_21_Savage_&_Roddy_Ricch)_DJ_Khaled_feat._Lil_Durk,_21_Savage_&_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KEEP GOING (feat. Lil Durk, 21 Savage, & Roddy Ricch)",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/02_KEEP_GOING_(feat._Lil_Durk,_21_Savage,_&_Roddy_Ricch)_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Keep Going On",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/03_Keep_Going_On_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/04_Keep_Going_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Just Keep Going",
+      "artist": "Wallis Bird",
+      "has_synced": true,
+      "path": "select/05_Just_Keep_Going_Wallis_Bird.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "This Is the Kit",
+      "has_synced": true,
+      "path": "select/06_Keep_Going_This_Is_the_Kit.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "The Revivalists",
+      "has_synced": true,
+      "path": "select/07_Keep_Going_The_Revivalists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Rozz Dyliams feat. Young Wicked",
+      "has_synced": true,
+      "path": "select/08_Keep_Going_Rozz_Dyliams_feat._Young_Wicked.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keep Going (feat. Young Wicked)",
+      "artist": "Rozz Dyliams, Young Wicked",
+      "has_synced": true,
+      "path": "select/09_Keep_Going_(feat._Young_Wicked)_Rozz_Dyliams,_Young_Wicked.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Rod Wave",
+      "has_synced": true,
+      "path": "select/10_Keep_Going_Rod_Wave.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "+Plus",
+      "has_synced": false,
+      "path": "select/11_Keep_Going_+Plus.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Panda Eyes feat. DatPhoria & Cozy",
+      "has_synced": false,
+      "path": "select/12_Keep_Going_Panda_Eyes_feat._DatPhoria_&_Cozy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Panda Eyes",
+      "has_synced": true,
+      "path": "select/13_Keep_Going_Panda_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Lecrae",
+      "has_synced": true,
+      "path": "select/14_Keep_Going_Lecrae.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Keep Going",
+      "artist": "Taio Cruz",
+      "has_synced": false,
+      "path": "select/15_Keep_Going_Taio_Cruz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "KEEP GOING",
+      "artist": "DJ Khaled feat. Lil Durk, 21 Savage & Roddy Ricch",
+      "has_synced": true,
+      "path": "select/16_KEEP_GOING_DJ_Khaled_feat._Lil_Durk,_21_Savage_&_Roddy_Ricch.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "KEEP GOING",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/17_KEEP_GOING_DJ_Khaled.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Keep going",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_Keep_going_04_Limited_Sazabys.txt"
+    }
+  ]
+}
